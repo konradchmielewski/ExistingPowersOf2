@@ -1,0 +1,7 @@
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.exe.config
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\bin\Debug\ExistingPowersOf2.pdb
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\ExistingPowersOf2\ExistingPowersOf2\obj\Debug\ExistingPowersOf2.pdb
